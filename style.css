@@ -1,0 +1,150 @@
+body{
+    background-color:whitesmoke ;
+}
+
+table{
+    width: 100%;
+    justify-content: center;
+}
+
+.sector{
+    justify-content: space-between;
+}
+
+.days{
+    font-family:'Bebas Neue', cursive;;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 148.02%;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: black;
+    cursor: pointer;
+}
+.days_text{
+    font-family:'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 148.02%;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: black;
+}
+.spis{
+    text-align: center;
+    background-color: white;
+}
+th{
+    background-color: white;
+
+}
+.in{
+    border: 0;
+    height: 30px;
+    width:180px;
+    color: black;
+    font-family:Montserrat ;
+    font-size: 15px;
+    font-style: bold;
+    font-weight: normal;
+    line-height: 148.02%;
+    letter-spacing: 0.01em;
+}
+.in2{
+    border: 0;
+    height: 30px;
+    width:180px;
+    font-family:'Bebas Neue', cursive;;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 148.02%;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: black;
+    cursor: pointer;
+}
+.k{
+    text-align: center  ;
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 20px;
+}
+
+
+.title{
+    font-family: 'Roboto', cursive;
+    font-size: 35px;
+    font-style: bold;
+    font-weight: normal;
+    line-height: 148.02%;
+    letter-spacing: 0.01em;
+    color: darkgreen;
+}
+
+.strel1{
+    margin-top: 30px;
+    font-family: Revalia;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: normal;
+    line-height: 148.02%;
+    letter-spacing: 0.01em;
+    color: darkgreen;
+    cursor: pointer;
+}
+.strel3{
+    margin-top: 30px;
+    font-family: Revalia;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: normal;
+    line-height: 148.02%;
+    letter-spacing: 0.01em;
+    color: darkgreen;
+    cursor: pointer;
+}
+
+.plus{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    float: center;
+    border: 0;
+    border-radius: 50%;
+    margin-top: 30px;
+    font-family: Revalia;
+    font-size: 35px;
+    font-style: bold;
+    font-weight: normal;
+    line-height: 148.02%;
+    letter-spacing: 0.01em;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px
+}
+.wi{
+    width: 100%;
+    z-index: 3;
+}
+
+.skrt{
+    display: none;
+}
+.vverh{
+    font-family: Revalia;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: normal;
+    line-height: 148.02%;
+    letter-spacing: 0.01em;
+    color: darkgreen;
+    cursor: pointer;
+    display: block;
+    margin-top: 30px;
+}
